@@ -4,7 +4,6 @@ import cardapio from 'data/cardapio.json';
 import styles from './Itens.module.scss';
 import { Cardapio } from 'types/Prato';
 
-
 interface Props {
     busca: string;
     ordenador: string;
